@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="angajati.xsl"?>
+<angajat>
+
+<persoana>
+<name>Alexandru Pasca</name>
+<specializare>Tehnician IT</specializare>
+<description>Alexandru este cel mai nou din echipa noastra, specialist pe parte de software!</description>
+</persoana>
+
+<persoana>
+<name>Bogdan Pustea</name>
+<specializare>Specialist Marketing</specializare>
+<description>Bogdan este persoana potrivita atunci cand ai nevoie de cat mai multe informatii utile!</description>
+</persoana>
+
+<persoana>
+<name>Cezar Stoica</name>
+<specializare>Specialist Hardware</specializare>
+<description>Daca ai ceva de reparat si necesit putine indemanare si o surubelnita, Cezar te poate ajuta!</description>
+</persoana>
+
+<persoana>
+<name>Serban Gavra</name>
+<specializare>Programator</specializare>
+<description>Specializat pe parte de software, Serban viseaza algoritmi oriunde s-ar afla!</description>
+</persoana>
+
+<persoana>
+<name>Robert Ivan</name>
+<specializare>Consultant IT</specializare>
+<description>Cunoaste si se preocupa permanent de intelegerea in profunzime a activitatilor desfasurate in organizatie, modul cum pot fi ele sustinute si dezvoltate prin solutii IT adecvate. </description>
+</persoana>
+
+</angajat>
